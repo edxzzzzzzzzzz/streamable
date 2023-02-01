@@ -1,4 +1,4 @@
- game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Streamable made by Edxz", Text = "Edxz#0001 .gg/cursew", Duration = 4,});
+DaHoodSettings>Edxzlua.cmds
 
 DaHoodSettings.Prediction = 0.14
 Aiming.TargetPart = {"Head, "RightUpperArm", "LeftFoot", "LeftLowerLeg", "UpperTorso", "HumanoidRootPart", "LeftUpperLeg", "RightLowerLeg", "RightFoot", "LowerTorso"}
