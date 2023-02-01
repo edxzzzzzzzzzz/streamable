@@ -1,0 +1,8 @@
+ game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Streamable made by Edxz", Text = "Edxz#0001 .gg/cursew", Duration = 4,});
+loadstring(game:HttpGet("https://raw.githubusercontent.com/topillesrevenge/Streamable-Silent/main/Main"))()
+DaHoodSettings.Prediction = 0.14
+Aiming.TargetPart = {"Head", "LeftHand", "RightHand", "LeftLowerArm", "RightLowerArm", "LeftUpperArm", "RightUpperArm", "LeftFoot", "LeftLowerLeg", "UpperTorso", "HumanoidRootPart", "LeftUpperLeg", "RightLowerLeg", "RightFoot", "LowerTorso"}
+Aiming.FOV = 22
+Aiming.FOVSides = 25
+Aiming.HitChance = 350
+Aiming.ShowFOV = false
